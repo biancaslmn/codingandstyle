@@ -1,3 +1,3 @@
 # codingandstyle
 coding and style
-<img src="Screen Shot 2018-11-07 at 11.50.52 PM.png" width=500>
+<img src="https://github.com/biancaslmn/codingandstyle/blob/master/images/Screen%20Shot%202018-11-07%20at%2011.50.52%20PM.png" width=500>
